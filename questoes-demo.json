@@ -1,0 +1,37 @@
+[
+ {
+  "id": "P2-021",
+  "tema": "Cap. 3 — Proteção de pedestres",
+  "enunciado": "É permitido ultrapassar outro veículo a 15 m de uma faixa de pedestres.",
+  "resposta": false,
+  "explicacao": "A menos de 30 m da faixa de pedestres ou de ciclistas, ultrapassar e passar à frente são proibidos."
+ },
+ {
+  "id": "P2-027",
+  "tema": "Cap. 3 — Velocidade e distância",
+  "enunciado": "Onde não há placa nem sinalização no pavimento com limite, a velocidade máxima do automóvel é de 60 km/h.",
+  "resposta": true,
+  "explicacao": "Sem sinalização de limite, o teto geral é de 60 km/h."
+ },
+ {
+  "id": "P2-002",
+  "tema": "Cap. 3 — Partida e cinto",
+  "enunciado": "O cinto de segurança deve ficar sobre a barriga, na linha da cintura.",
+  "resposta": false,
+  "explicacao": "O cinto fica no abdome, abaixo da linha da cintura, e nunca sobre a barriga."
+ },
+ {
+  "enunciado": "Oferecer bebida alcoólica a quem vai dirigir é permitido, desde que seja em pequena quantidade.",
+  "explicacao": "É proibido servir ou oferecer bebida alcoólica a qualquer pessoa que vá dirigir, sem exceção de quantidade.",
+  "id": "P1-022",
+  "resposta": false,
+  "tema": "Cap. 1 — Conduta na via"
+ },
+ {
+  "enunciado": "Se o carro ficar imobilizado por pane, falta de combustível ou acidente, o motorista deve ligar para o 110 e avisar a polícia, e chamar o guincho pelo telefone de emergência da rodovia.",
+  "explicacao": "O procedimento é avisar a polícia pelo 110 e solicitar o guincho usando o telefone de emergência mais próximo.",
+  "id": "P3-050",
+  "resposta": true,
+  "tema": "Cap. 5 — Auto-estradas"
+ }
+]
